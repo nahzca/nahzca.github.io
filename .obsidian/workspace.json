@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-02-1.md",
+                "file": "_posts/2024-06-02-비밀번호-찾기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-02-1.md",
+                "file": "_posts/2024-06-02-비밀번호-찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-02-1.md",
+                "file": "_posts/2024-06-02-비밀번호-찾기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-02-1.md"
+                "file": "_posts/2024-06-02-비밀번호-찾기.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "76506568fd8cb55b",
   "lastOpenFiles": [
-    "_posts/2024-06-01-1.md",
-    "_posts/2024-06-02-1.md",
+    "_posts/2024-06-01-와우-우리는-똑똑해.md",
     "_posts/2019-08-08-write-a-new-post.md",
+    "_posts/2024-06-02-비밀번호-찾기.md",
     "assets/img/Pasted image 20240601010839.png",
     "assets/img/Pasted image 20240601005411.png"
   ]
