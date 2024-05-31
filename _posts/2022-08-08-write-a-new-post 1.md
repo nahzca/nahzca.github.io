@@ -10,4 +10,4 @@ tags:
 render_with_liquid: false
 ---
 이미지를 테스트합니다.
-![[Pasted image 20240601005411.png]]
+![](assets/img/Pasted%20image%2020240601010839.png)
