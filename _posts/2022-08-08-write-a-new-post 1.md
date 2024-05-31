@@ -9,5 +9,5 @@ tags:
   - writing
 render_with_liquid: false
 ---
-# 이미지를 테스트 해봅시다.
-![[Pasted image 20240601004429.png]]
+이미지를 테스트합니다.
+![[Pasted image 20240601005411.png]]
