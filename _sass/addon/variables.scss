@@ -28,6 +28,7 @@ $code-dot-gap: 0.5rem !default;
 $code-icon-width: 1.75rem !default;
 
 /* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;800&family=Roboto:wght@100&display=swap');
 
-$font-family-base: 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
+$font-family-base: "Nanum Gothic",'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
 $font-family-heading: Lato, 'Microsoft Yahei', sans-serif !default;
